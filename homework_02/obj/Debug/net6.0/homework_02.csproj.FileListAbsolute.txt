@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_06\homework_02\bin\Debug\net6.0\homework_02.exe
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_06\homework_02\bin\Debug\net6.0\homework_02.deps.json
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_06\homework_02\bin\Debug\net6.0\homework_02.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_06\homework_02\bin\Debug\net6.0\homework_02.dll
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_06\homework_02\bin\Debug\net6.0\homework_02.pdb
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_06\homework_02\obj\Debug\net6.0\homework_02.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_06\homework_02\obj\Debug\net6.0\homework_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_06\homework_02\obj\Debug\net6.0\homework_02.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_06\homework_02\obj\Debug\net6.0\homework_02.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_06\homework_02\obj\Debug\net6.0\homework_02.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_06\homework_02\obj\Debug\net6.0\homework_02.dll
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_06\homework_02\obj\Debug\net6.0\refint\homework_02.dll
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_06\homework_02\obj\Debug\net6.0\homework_02.pdb
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_06\homework_02\obj\Debug\net6.0\homework_02.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_06\homework_02\obj\Debug\net6.0\ref\homework_02.dll
